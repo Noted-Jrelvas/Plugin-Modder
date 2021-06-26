@@ -1,0 +1,6 @@
+{
+    "Lua.diagnostics.ignore": [
+        "RequestInternal",
+        "DefineFastFlag"
+    ]
+}

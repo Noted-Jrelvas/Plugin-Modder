@@ -1,0 +1,6 @@
+{
+  "name": "PluginModder",
+  "tree": {
+    "$path": "src"
+  }
+}
